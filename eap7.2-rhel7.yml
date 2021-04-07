@@ -17,6 +17,7 @@
     - wildfly.jcliff
 
   roles:
+    - redhat-cop.jboss_common
     - redhat-cop.jboss_eap
     - jcliff
 
